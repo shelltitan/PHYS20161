@@ -1,0 +1,12 @@
+The final assigment was the following
+"Imagine you're going to start your own logistics company which will deliver Great Stuff to the people of Great Britain. 
+Where is the best place to put your delivery hub? Where can you best serve the people of 
+Britain from at the minimum cost in terms of distance you need to travel?
+You'll need GBplaces.csv. You know how to read CSV data. You need to find out how to calculate 
+the Great-Circle distance between two points described by their latitude and longitude - this is called the Haversine formula.
+Together with the program hill.cpp that I showed in lectures, and available in the Week 10 course folder, this should provide enough
+to complete the assignment.".
+Console application 4 and 6 contains my solution to this. 4 is a simple way to do it,
+it would only earn the marks that was awarded for a right solution. 6 is a more complicated solution where I used K-nearest mean to
+calculate the optimal place for the hub.
+
